@@ -15,7 +15,7 @@ __Built using__
 __Trained using__
 1. Google Cloud Virtual Machine
 2. 8 CPU | 5 GB Memory | 1 Tesla K80 GPU
-3. Unbuntu 16+
+3. Ubuntu 16+
 
 __References__
 
